@@ -53,18 +53,18 @@ const data = [
       },
       {
         question: "Qual meu maior medo?",
-        options: ["Aranha", "Escuro", "Altura", "Gato"],
+        options: ["Aranha", "Gato", "Altura", "Escuro"],
         answer: "Gato",
       },
       {
         question: "Qual o filme que assistimos com nossa vizinha?",
         options: [
           "One Piece",
-          "Quarto de guerra",
+          "Quarto de Guerra",
           "Marley e Eu",
           "Toy Story",
         ],
-        answer: "Quarto de guerra",
+        answer: "Quarto de Guerra",
       },
       {
         question: "Qual desses esportes eu amo",
